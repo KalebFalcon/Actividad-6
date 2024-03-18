@@ -1,5 +1,4 @@
 /******************************************************************************
- * 
 //actividad 6
 Nombre: Kaleb Alejandro Falcon Marquez
 Fecha: 26/02/2024
@@ -9,7 +8,6 @@ INGENIERIA EN COMPUTACION / SEGUNDO SEMESTRE
 Profesor: CARLOS JAVIER CRUZ FRANCO
 Descripcion: Una calculadora de matrices, basada en coordenadas, suma, resta,
 multiplicacion.
-
 *******************************************************************************/
 #include <iostream>
 #include <ctime>
